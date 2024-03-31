@@ -1,0 +1,11 @@
+{
+    "name": "Lyrical",
+    "version": "1.0.0",
+    "description": "Lyric convertor for Spotify",
+    "manifest_version": 3,
+    "author": "raj-kapil",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Enjoy the translated lyrics"
+    }
+}
